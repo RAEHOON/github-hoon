@@ -13,5 +13,5 @@
 
 https://baritone-coding.tistory.com/
 
-[블로그 바로가기](https://baritone-coding.tistory.com, "음대생의 코딩일기")
+[블로그 바로가기](https://baritone-coding.tistory.com)
 
