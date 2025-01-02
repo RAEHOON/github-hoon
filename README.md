@@ -8,3 +8,10 @@
 ### 리드미도 뭔가 해서 한번 써봅니다.
 
 #### 잘 되고 있는 것 같습니다. 
+
+제 블로그 링크도 남겨보겠습니다.
+
+https://baritone-coding.tistory.com/
+
+[블로그 바로가기] {https://baritone-coding.tistory.com, "음대생의 코딩일기"}
+
